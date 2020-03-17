@@ -1,6 +1,10 @@
 # Swap Images
 
-...
+A startup script.
+
+Select two image frames and right click: You find three new commands at the bottom
+
+There is a var on line 13: `var dbg = false`. Set this to `true` to find a log on the desktop in case something goews awry during installation.
 
 
 
